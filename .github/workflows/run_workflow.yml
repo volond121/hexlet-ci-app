@@ -14,6 +14,5 @@ jobs:
       # run – произвольная bash-команда
       # ls -la выведет содержимое текущего репозитория
       - run: make setup
-      - run: make start
       - run: run test
       - run: make lint
