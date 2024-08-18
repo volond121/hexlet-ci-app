@@ -28,6 +28,7 @@ make lint
 ```
 
 ---
+[![run-work](https://github.com/volond121/hexlet-ci-app/actions/workflows/run_workflow.yml/badge.svg)](https://github.com/volond121/hexlet-ci-app/actions/workflows/run_workflow.yml)
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
